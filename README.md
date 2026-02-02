@@ -56,7 +56,7 @@ print("Mean Squared Error:", mse)
 print("Predictions:\n", Y_pred[:5])
 ```
 ## Output:
-<img width="764" height="293" alt="Screenshot 2026-02-02 112525" src="https://github.com/user-attachments/assets/1e964060-cec2-4931-9411-083e61653908" />
+<img width="764" height="293" alt="Screenshot 2026-02-02 112525" src="https://github.com/user-attachments/assets/bda999fb-ce97-449b-8d4c-6ea2e7b48856" />
 
 
 ## Result:
